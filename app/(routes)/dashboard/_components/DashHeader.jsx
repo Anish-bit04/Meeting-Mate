@@ -32,7 +32,6 @@ const DashHeader = () => {
     <DropdownMenuSeparator />
     <DropdownMenuItem>Profile</DropdownMenuItem>
     <DropdownMenuItem>Settings</DropdownMenuItem>
-    
     <DropdownMenuItem>
       <LogoutLink>Logout</LogoutLink>
     </DropdownMenuItem>
